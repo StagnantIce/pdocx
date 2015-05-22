@@ -2,6 +2,7 @@
 
 /**
  * @author StagnantIce (tria-aa@mail.ru)
+ * @url https://github.com/StagnantIce/pdocx
  */
 
 define('DOCX_BASE_PATH', dirname(__FILE__) . '/');
